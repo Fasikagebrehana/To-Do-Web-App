@@ -1,0 +1,17 @@
+ul {
+    list-style-type: None;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+}
+
+button {
+    margin-left: 10px;
+    cursor: pointer;
+    /* border-width: 10px; */
+    border-radius: 10px;
+}
